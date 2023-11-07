@@ -91,7 +91,7 @@ margin-right: 13%;
     color: rgb(94, 161, 238);
 }
 .header.sticky .navbar a:hover{
-    text-decoration: underline;
+    text-decoration: overline;
 }
 
 /* Active Page
