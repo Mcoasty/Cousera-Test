@@ -84,7 +84,7 @@ margin-right: 13%;
 
 .navbar a:hover{
     text-decoration: overline;
-    color: rgb(255, 251, 0);
+    color: cyan;
 }
 
 .header.sticky .navbar a {
